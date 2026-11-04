@@ -12,6 +12,19 @@
       ],
       "image": "art/apocalypse-8d951c.jpg",
       "added": 1793797633792
+    },
+    {
+      "id": "inferno",
+      "name": "Inferno",
+      "piece": "dragon",
+      "price": 1000,
+      "description": "",
+      "faceCenter": [
+        44,
+        27
+      ],
+      "image": "art/inferno-c9469c.jpg",
+      "added": 1793797812754
     }
   ]
 }
