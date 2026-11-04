@@ -155,6 +155,19 @@
       ],
       "image": "art/xanthic-madness-4-4f2d0f.webp",
       "added": 1793808457065
+    },
+    {
+      "id": "crime-and-punishment",
+      "name": "Crime and Punishment",
+      "piece": "knave",
+      "price": 500,
+      "description": "",
+      "faceCenter": [
+        61,
+        22
+      ],
+      "image": "art/crime-and-punishment-52b6d8.webp",
+      "added": 1793808560931
     }
   ]
 }
