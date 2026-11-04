@@ -298,6 +298,19 @@
       ],
       "image": "art/dc-79ae0a.webp",
       "added": 1793809236463
+    },
+    {
+      "id": "xanthic-madness-8",
+      "name": "Xanthic Madness",
+      "piece": "joker",
+      "price": 1500,
+      "description": "",
+      "faceCenter": [
+        50,
+        31
+      ],
+      "image": "art/xanthic-madness-8-050570.webp",
+      "added": 1793809260738
     }
   ]
 }
