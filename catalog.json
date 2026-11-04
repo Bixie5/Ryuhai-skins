@@ -246,6 +246,19 @@
       ],
       "image": "art/scarlet-rot-queen-39139b.webp",
       "added": 1793809059737
+    },
+    {
+      "id": "golden-order",
+      "name": "Golden Order",
+      "piece": "empress",
+      "price": 1000,
+      "description": "",
+      "faceCenter": [
+        79,
+        19
+      ],
+      "image": "art/golden-order-9bee81.webp",
+      "added": 1793809085889
     }
   ]
 }
