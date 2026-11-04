@@ -168,6 +168,19 @@
       ],
       "image": "art/crime-and-punishment-52b6d8.webp",
       "added": 1793808560931
+    },
+    {
+      "id": "false-messiah",
+      "name": "False Messiah",
+      "piece": "knave",
+      "price": 1000,
+      "description": "",
+      "faceCenter": [
+        50,
+        21
+      ],
+      "image": "art/false-messiah-147b7e.jpg",
+      "added": 1793808774434
     }
   ]
 }
