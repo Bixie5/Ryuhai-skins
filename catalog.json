@@ -233,6 +233,19 @@
       ],
       "image": "art/xanthic-madness-6-47d59c.jpg",
       "added": 1793809019650
+    },
+    {
+      "id": "scarlet-rot-queen",
+      "name": "Scarlet Rot Queen",
+      "piece": "empress",
+      "price": 500,
+      "description": "",
+      "faceCenter": [
+        51,
+        27
+      ],
+      "image": "art/scarlet-rot-queen-39139b.webp",
+      "added": 1793809059737
     }
   ]
 }
