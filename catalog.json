@@ -103,6 +103,19 @@
       ],
       "image": "art/depths-of-abyss-aac916.webp",
       "added": 1793808049876
+    },
+    {
+      "id": "xanthic-madness-3",
+      "name": "Xanthic Madness",
+      "piece": "knight",
+      "price": 1500,
+      "description": "",
+      "faceCenter": [
+        46,
+        35
+      ],
+      "image": "art/xanthic-madness-3-5bf837.webp",
+      "added": 1793808091405
     }
   ]
 }
