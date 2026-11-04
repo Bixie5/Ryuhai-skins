@@ -64,6 +64,19 @@
       ],
       "image": "art/king-baldwin-127a24.jpg",
       "added": 1793807868739
+    },
+    {
+      "id": "xanthic-madness-2",
+      "name": "Xanthic Madness",
+      "piece": "monarch",
+      "price": 1000,
+      "description": "The King in Yellow",
+      "faceCenter": [
+        48,
+        21
+      ],
+      "image": "art/xanthic-madness-2-ce5023.webp",
+      "added": 1793807941555
     }
   ]
 }
