@@ -38,6 +38,19 @@
       ],
       "image": "art/xanthic-madness-3357d6.webp",
       "added": 1793797983907
+    },
+    {
+      "id": "ruler-of-death",
+      "name": "Ruler of Death",
+      "piece": "monarch",
+      "price": 500,
+      "description": "",
+      "faceCenter": [
+        51,
+        20
+      ],
+      "image": "art/ruler-of-death-ed0b81.webp",
+      "added": 1793807820731
     }
   ]
 }
