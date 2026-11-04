@@ -1,3 +1,17 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "apocalypse",
+      "name": "Apocalypse",
+      "piece": "dragon",
+      "price": 500,
+      "description": "",
+      "faceCenter": [
+        20,
+        42
+      ],
+      "image": "art/apocalypse-8d951c.jpg",
+      "added": 1793797633792
+    }
+  ]
 }
