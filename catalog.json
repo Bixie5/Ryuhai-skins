@@ -129,6 +129,19 @@
       ],
       "image": "art/last-stand-2-3ee85e.jpg",
       "added": 1793808230808
+    },
+    {
+      "id": "merlin",
+      "name": "Merlin",
+      "piece": "wizard",
+      "price": 1000,
+      "description": "",
+      "faceCenter": [
+        50,
+        22
+      ],
+      "image": "art/merlin-620548.webp",
+      "added": 1793808364555
     }
   ]
 }
