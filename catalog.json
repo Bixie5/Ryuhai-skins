@@ -116,6 +116,19 @@
       ],
       "image": "art/xanthic-madness-3-5bf837.webp",
       "added": 1793808091405
+    },
+    {
+      "id": "last-stand-2",
+      "name": "Last Stand",
+      "piece": "wizard",
+      "price": 500,
+      "description": "",
+      "faceCenter": [
+        50,
+        22
+      ],
+      "image": "art/last-stand-2-3ee85e.jpg",
+      "added": 1793808230808
     }
   ]
 }
