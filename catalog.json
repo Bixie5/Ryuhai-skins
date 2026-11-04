@@ -259,6 +259,19 @@
       ],
       "image": "art/golden-order-9bee81.webp",
       "added": 1793809085889
+    },
+    {
+      "id": "xanthic-madness-7",
+      "name": "Xanthic Madness",
+      "piece": "empress",
+      "price": 1500,
+      "description": "",
+      "faceCenter": [
+        60,
+        40
+      ],
+      "image": "art/xanthic-madness-7-76f11a.webp",
+      "added": 1793809114644
     }
   ]
 }
