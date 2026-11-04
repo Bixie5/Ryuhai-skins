@@ -272,6 +272,19 @@
       ],
       "image": "art/xanthic-madness-7-76f11a.webp",
       "added": 1793809114644
+    },
+    {
+      "id": "classic-v2",
+      "name": "Classic V2",
+      "piece": "joker",
+      "price": 500,
+      "description": "",
+      "faceCenter": [
+        56,
+        29
+      ],
+      "image": "art/classic-v2-cae7ca.webp",
+      "added": 1793809138615
     }
   ]
 }
