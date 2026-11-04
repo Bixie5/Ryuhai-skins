@@ -194,6 +194,19 @@
       ],
       "image": "art/xanthic-madness-5-98b9b6.jpg",
       "added": 1793808852409
+    },
+    {
+      "id": "the-fool",
+      "name": "The Fool",
+      "piece": "fool",
+      "price": 500,
+      "description": "",
+      "faceCenter": [
+        67,
+        24
+      ],
+      "image": "art/the-fool-a8231c.webp",
+      "added": 1793808922738
     }
   ]
 }
