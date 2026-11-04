@@ -220,6 +220,19 @@
       ],
       "image": "art/to-fool-and-to-be-fooled-f19d6b.jpg",
       "added": 1793808959065
+    },
+    {
+      "id": "xanthic-madness-6",
+      "name": "Xanthic Madness",
+      "piece": "fool",
+      "price": 1500,
+      "description": "",
+      "faceCenter": [
+        48,
+        27
+      ],
+      "image": "art/xanthic-madness-6-47d59c.jpg",
+      "added": 1793809019650
     }
   ]
 }
