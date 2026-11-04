@@ -51,6 +51,19 @@
       ],
       "image": "art/ruler-of-death-ed0b81.webp",
       "added": 1793807820731
+    },
+    {
+      "id": "king-baldwin",
+      "name": "King Baldwin",
+      "piece": "monarch",
+      "price": 1000,
+      "description": "",
+      "faceCenter": [
+        46,
+        24
+      ],
+      "image": "art/king-baldwin-127a24.jpg",
+      "added": 1793807868739
     }
   ]
 }
