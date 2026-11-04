@@ -90,6 +90,19 @@
       ],
       "image": "art/last-stand-756273.webp",
       "added": 1793807999527
+    },
+    {
+      "id": "depths-of-abyss",
+      "name": "Depths Of Abyss",
+      "piece": "knight",
+      "price": 1000,
+      "description": "",
+      "faceCenter": [
+        47,
+        24
+      ],
+      "image": "art/depths-of-abyss-aac916.webp",
+      "added": 1793808049876
     }
   ]
 }
