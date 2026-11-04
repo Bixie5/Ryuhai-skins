@@ -1,3 +1,17 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "classic-v2",
+      "name": "classic v2",
+      "piece": "joker",
+      "price": 500,
+      "description": "",
+      "faceCenter": [
+        54,
+        29
+      ],
+      "image": "art/classic-v2-1566a1.webp",
+      "added": 1793796735140
+    }
+  ]
 }
