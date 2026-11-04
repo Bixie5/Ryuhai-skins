@@ -77,6 +77,19 @@
       ],
       "image": "art/xanthic-madness-2-ce5023.webp",
       "added": 1793807941555
+    },
+    {
+      "id": "last-stand",
+      "name": "Last Stand",
+      "piece": "knight",
+      "price": 500,
+      "description": "",
+      "faceCenter": [
+        52,
+        28
+      ],
+      "image": "art/last-stand-756273.webp",
+      "added": 1793807999527
     }
   ]
 }
