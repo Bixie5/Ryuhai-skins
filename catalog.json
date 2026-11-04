@@ -285,6 +285,19 @@
       ],
       "image": "art/classic-v2-cae7ca.webp",
       "added": 1793809138615
+    },
+    {
+      "id": "dc",
+      "name": "DC",
+      "piece": "joker",
+      "price": 1000,
+      "description": "",
+      "faceCenter": [
+        51,
+        33
+      ],
+      "image": "art/dc-79ae0a.webp",
+      "added": 1793809236463
     }
   ]
 }
