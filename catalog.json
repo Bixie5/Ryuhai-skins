@@ -207,6 +207,19 @@
       ],
       "image": "art/the-fool-a8231c.webp",
       "added": 1793808922738
+    },
+    {
+      "id": "to-fool-and-to-be-fooled",
+      "name": "To Fool and To Be Fooled",
+      "piece": "fool",
+      "price": 1000,
+      "description": "",
+      "faceCenter": [
+        50,
+        22
+      ],
+      "image": "art/to-fool-and-to-be-fooled-f19d6b.jpg",
+      "added": 1793808959065
     }
   ]
 }
