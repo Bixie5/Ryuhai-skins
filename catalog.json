@@ -1,17 +1,3 @@
 {
-  "items": [
-    {
-      "id": "a",
-      "name": "a",
-      "piece": "dragon",
-      "price": 500,
-      "description": "",
-      "faceCenter": [
-        20,
-        34
-      ],
-      "image": "art/a-82a1ee.jpg",
-      "added": 1793796283648
-    }
-  ]
+  "items": []
 }
