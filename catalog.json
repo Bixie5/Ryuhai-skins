@@ -181,6 +181,19 @@
       ],
       "image": "art/false-messiah-147b7e.jpg",
       "added": 1793808774434
+    },
+    {
+      "id": "xanthic-madness-5",
+      "name": "Xanthic Madness",
+      "piece": "knave",
+      "price": 1500,
+      "description": "",
+      "faceCenter": [
+        52,
+        20
+      ],
+      "image": "art/xanthic-madness-5-98b9b6.jpg",
+      "added": 1793808852409
     }
   ]
 }
