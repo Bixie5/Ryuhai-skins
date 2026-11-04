@@ -25,6 +25,19 @@
       ],
       "image": "art/inferno-c9469c.jpg",
       "added": 1793797812754
+    },
+    {
+      "id": "xanthic-madness",
+      "name": "Xanthic Madness",
+      "piece": "dragon",
+      "price": 1500,
+      "description": "",
+      "faceCenter": [
+        45,
+        17
+      ],
+      "image": "art/xanthic-madness-3357d6.webp",
+      "added": 1793797983907
     }
   ]
 }
