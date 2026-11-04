@@ -142,6 +142,19 @@
       ],
       "image": "art/merlin-620548.webp",
       "added": 1793808364555
+    },
+    {
+      "id": "xanthic-madness-4",
+      "name": "Xanthic Madness",
+      "piece": "wizard",
+      "price": 1000,
+      "description": "",
+      "faceCenter": [
+        47,
+        17
+      ],
+      "image": "art/xanthic-madness-4-4f2d0f.webp",
+      "added": 1793808457065
     }
   ]
 }
