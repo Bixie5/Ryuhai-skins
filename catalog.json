@@ -56,7 +56,7 @@
       "id": "king-baldwin",
       "name": "King Baldwin",
       "piece": "monarch",
-      "price": 1000,
+      "price": 0,
       "description": "",
       "faceCenter": [
         46,
