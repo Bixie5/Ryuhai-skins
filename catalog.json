@@ -290,7 +290,7 @@
       "id": "dc",
       "name": "DC",
       "piece": "joker",
-      "price": 1000,
+      "price": 0,
       "description": "",
       "faceCenter": [
         51,
