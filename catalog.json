@@ -212,7 +212,7 @@
       "id": "to-fool-and-to-be-fooled",
       "name": "To Fool and To Be Fooled",
       "piece": "fool",
-      "price": 1000,
+      "price": 0,
       "description": "",
       "faceCenter": [
         50,
