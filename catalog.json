@@ -173,7 +173,7 @@
       "id": "false-messiah",
       "name": "False Messiah",
       "piece": "knave",
-      "price": 1000,
+      "price": 0,
       "description": "",
       "faceCenter": [
         50,
