@@ -95,7 +95,7 @@
       "id": "depths-of-abyss",
       "name": "Depths Of Abyss",
       "piece": "knight",
-      "price": 1000,
+      "price": 0,
       "description": "",
       "faceCenter": [
         47,
